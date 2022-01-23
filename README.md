@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+git push -f https://github.com/developergovindgupta/vue-demo1.git master:gh-pages
+git subtree push --prefix dist https://github.com/developergovindgupta/vue-demo1.git master
+
+
